@@ -1,0 +1,2 @@
+2017-02-25 14:49:44,107 - DEBUG - Namespace(alpha=0.1, enable_red_green=True, enable_strategic_stilling=True, enemy_ROI=-0.5, fixed_hold=False, hold_until=7, int_max=0.45, int_min=0.01, name='roibot', potential_degradation_step=0.2)
+2017-02-25 14:59:08,683 - DEBUG - Namespace(alpha=0.1, enable_red_green=True, enable_strategic_stilling=True, enemy_ROI=-0.5, fixed_hold=False, hold_until=7, int_max=0.45, int_min=0.01, name='roibot', potential_degradation_step=0.2)
